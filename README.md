@@ -1,10 +1,6 @@
 <h1>Hello world 👋, I'm Jacob</h1>
 <h3>Ambitious frontend developer from Poland.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jakubparlej&label=Profile%20views&color=0e75b6&style=flat" alt="jakubparlej" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jakubparlej" alt="jakubparlej" /></a> </p>
-
 - 🔭 I’m currently working on [PremiumCars](https://github.com/jakubparlej/premium-cars) project
 
 - 🌱 I’m currently learning **React.js and Babylon.js**
@@ -30,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakubparlej&show_icons=true&locale=en&layout=compact" alt="jakubparlej" /></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jakubparlej&show_icons=true&locale=en" alt="jakubparlej" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakubparlej&show_icons=true&locale=en" alt="jakubparlej" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakubparlej&" alt="jakubparlej" /></p>
