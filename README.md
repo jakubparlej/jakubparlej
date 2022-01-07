@@ -1,7 +1,7 @@
 <h1>Hello world 👋, I'm Jacob</h1>
 <h3>Ambitious frontend developer from Poland.</h3>
 
-- 🔭 I’m currently working on [PremiumCars](https://github.com/jakubparlej/premium-cars) project
+- 🔭 I’m currently working on [PremiumCars](https://github.com/jakubparlej/premiumcars) project
 
 - 🌱 I’m currently learning **React.js and Babylon.js**
 
