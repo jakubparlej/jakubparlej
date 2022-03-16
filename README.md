@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PremiumCars](https://github.com/jakubparlej/premiumcars) project
 
-- 🌱 I’m currently learning **React.js and Babylon.js**
+- 🌱 I’m currently learning **React.js andN Next.js**
 
 - 👨‍💻 All of my projects are available at [www.jprojects.pl](www.jprojects.pl)
 
