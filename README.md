@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in [VROCode](https://vrocode.pl/) and [GoIT](https://goit.global/pl)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Next.js 13 and Web 3.0**
 
 - 👨‍💻 All of my projects are available at [www.jprojects.pl](www.jprojects.pl)
 
