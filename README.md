@@ -1,9 +1,9 @@
 <h1>Hello world 👋, I'm Jacob</h1>
 <h3>Ambitious frontend developer from Poland.</h3>
 
-- 🔭 I’m currently working in [VROCode](https://vrocode.pl/) and [GoIT](https://goit.global/pl)
+- 🔭 I’m currently working in [GMI](https://gmihub.com/) and [GoIT](https://goit.global/pl)
 
-- 🌱 I’m currently learning **Next.js 13 and Web 3.0**
+- 🌱 I’m currently learning **Nest.js**
 
 - 👨‍💻 All of my projects are available at [www.jprojects.pl](www.jprojects.pl)
 
